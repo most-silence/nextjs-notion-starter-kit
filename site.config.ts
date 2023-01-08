@@ -10,14 +10,14 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'most-silence',
-  domain: 'https://decisive-literature-89b.notion.site/most-silence-5ff3732ff8af4568a61a92933b82d2af',
+  domain: 'most-silence.top',
   author: 'Leo Sharh',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'MSilence',
+  twitter: '@Eliot_Gabriel_',
   github: 'most-silence',
   //linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
